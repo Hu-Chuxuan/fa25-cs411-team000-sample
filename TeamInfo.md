@@ -6,12 +6,12 @@
 | ----------- | ---------------------- |
 | TeamID      |        Team-000        |
 | TeamName    |         sample         |
-| Captain     |       Abdu Alawini     |
-| Captain     |  alawini@illinois.edu  |
-| Member1     |  Shadman Saqib Eusuf   |
-| Member1     |  seusuf2@illinois.edu  |
-| Member2     |     Aryaman Nasare     |
-| Member2     |  nasare2@illinois.edu  |
+| Captain     |       Daniel Kang     |
+| Captain     |  ddkang@illinois.edu  |
+| Member1     |  Chuxuan Hu   |
+| Member1     |  chuxuan3@illinois.edu  |
+| Member2     |     Tengjun Jin     |
+| Member2     |  tengjun2@illinois.edu  |
 | Member3     |                        |
 | Member3     |                        |
 
